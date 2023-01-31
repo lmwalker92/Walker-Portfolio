@@ -10,7 +10,7 @@ In the course, I hope to learn more about how to create data visualizations that
 # Portfolio
 ## Critique by Design
 ## Visualizing Government Debt
-[OECD Data 2020](Governmentdebt.md)
+[OECD Data 2020](/Governmentdebt.md)
 ## Final Project Part 1
 ## Final Project Part 2
 ## Final Project Part 3
