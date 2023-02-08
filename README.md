@@ -9,6 +9,7 @@ In the course, I hope to learn more about how to create data visualizations that
 
 # Portfolio
 ## Critique by Design
+[Critique By Design](/Critique.md)
 ## Visualizing Government Debt
 [OECD Data](/Governmentdebt.md)
 ## Final Project Part 1
