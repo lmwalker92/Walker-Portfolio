@@ -25,8 +25,27 @@ One aspect that I wanted to highlight in my redesign was the change in tuition r
 
 Another way I thought of redesigning the visualization was to plot the number of graduates of a particular university and the tuition rate for a specific year in order to see if there was a correlation between the two variables. For the scatter plot sketch above, I chose out-of-state tuition to be the variable on the y-axis.
 
-## Feedback 
-Student feedback:
+## Student Feedback 
 - The line chart was easier to understand than the scatterplot. With all of the abbreviations of the universities above the points, it was a bit hard to understand the importance of the data/what the data was saying.
 - The titles could be shorter and clearer
-- A smaller sample size would be best for this chart. 
+- Make sure that the sample size is not too large 
+
+## Secondary sketches
+The following sketches were created after getting feedback from the student. Two were sketched by hand, and one was made using Tableau. After getting feedback from the student, I decided that the line chart was more aligned with how I wanted to redesign the visualization.
+
+![sketch version 2 (1)](https://user-images.githubusercontent.com/122955915/217416930-9943cf8e-d43c-4856-b000-e17c37e8929f.jpg)
+
+In this sketch, I hand-drew a version of what I wanted the final visualization to look like (although this sketch does not include all of the universities that were used in the final). Rather than including the names of each university at the end of the line like in the first sketch, the lines are color coded with a legend at the bottom.
+
+![sketch version 2 (2)](https://user-images.githubusercontent.com/122955915/217416961-d4754215-f520-4406-8503-629d0dc26d57.jpg)
+
+This is a hand-drawn version of the total graduates redesign. Similar to the sketch before, it does not include all of the universities that were used in the final. 
+
+![critique draft 2 PDF in state](https://user-images.githubusercontent.com/122955915/217416990-94a3f59d-0cac-47df-9821-9959acbce97a.jpg)
+I used Tableau to draft a cleaner version of what the final redesign might look like. I wanted to highlight the universities that have different in-state tuition rates compared to their out-of-state rates.
+
+## Non-student adult feedback
+- In my conversation with an adult who is not a student, I had to explain the sketch of in-state tuition rates, and why I used gray for this visualization. For that visualization, I wanted to highlight the universities where the in-state tuition rate is different from the out-of-state tuition rate (i.e. public universities). This conversation led me to add a brief sub-title that made it clearer that my intent was to highlight public universities.
+- The adult also suggested making the lines a little bit thicker, unless it would lead to cluttering the graph.
+
+## Final Redesigns
