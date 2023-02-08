@@ -14,7 +14,7 @@ Using Stephen Few's "Data Visualization Effectiveness Profile," I gave the follo
 - Aesthetics: 5
 - Engagement: 7
 
-## Initial Sketches
+## Initial Sketches 
 As a whole, I thought the original visualization was well done, but I believed that there were some things that could be improved on or added. For my redesign, I wanted to include data on the schools that were commonly listed as being in the "top 5" music universities in the original visualization, while also including other reputable and/or popular music universities and programs.
 
 ![initial sketch 1](https://user-images.githubusercontent.com/122955915/217414331-fc974ad7-f127-4616-bc82-c77ce424ebd3.jpg)
