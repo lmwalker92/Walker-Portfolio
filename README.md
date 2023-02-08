@@ -13,7 +13,7 @@ In the course, I hope to learn more about how to create data visualizations that
 ## Visualizing Government Debt
 [OECD Data](/Governmentdebt.md)
 ## Tableau Demo
-[Tableau Practice](/Tableau.md)
+[Tableau Practice](/Tableaudemo.md)
 ## Final Project Part 1
 ## Final Project Part 2
 ## Final Project Part 3
