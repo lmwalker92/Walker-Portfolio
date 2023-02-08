@@ -14,4 +14,13 @@ Using Stephen Few's "Data Visualization Effectiveness Profile," I gave the follo
 - Aesthetics: 5
 - Engagement: 7
 
+## Initial Sketches
 As a whole, I thought the original visualization was well done, but I believed that there were some things that could be improved on or added. For my redesign, I wanted to include data on the schools that were commonly listed as being in the "top 5" music universities in the original visualization, while also including other reputable and/or popular music universities and programs.
+
+![initial sketch 1](https://user-images.githubusercontent.com/122955915/217414331-fc974ad7-f127-4616-bc82-c77ce424ebd3.jpg)
+
+One aspect that I wanted to highlight in my redesign was the change in tuition rates over time. While the original visualization did have data from different years, the viewer has to click back-and-forth between the different years in order to see the differences. In order to better demonstrate change over time, I sketched a line chart using some of the data from some of the universities in the original visualization.
+
+![initial sketch 2](https://user-images.githubusercontent.com/122955915/217414541-4bbdb2d4-5271-4f88-b88e-f003e32d7d5f.jpg)
+
+Another way I thought of redesigning the visualization was to plot the number of graduates of a particular university and the tuition rate for a specific year in order to see if there was a correlation between the two variables. For the scatter plot sketch above, I chose out-of-state tuition to be the variable on the y-axis.
