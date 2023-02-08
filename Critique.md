@@ -1,5 +1,5 @@
 # Critique by Design
-The visualization that I chose to critique is titled ["Tuition Costs for Common Universities"](https://datausa.io/profile/cip/music?tuition-measure-tuition_costs=inStateMeasure#tuition_costs). The original data comes from the National Center for Education Statistics' Postsecondary Education Data System. The visualization consists of three different bar graphs about music universities in North America, with each chart showing information for the years 2013 through 2020. Here, music universities consist of both post-secondary institutions that are specifically for music, as well as universities that have reputable and/or popular music degree programs. The first graph shows the in-state tuition rates for music universities; the second graphs shows out-of-state tuition rates; the third shows the total number of graduates from each school in a particular graph.
+The visualization that I chose to critique and redesign is titled ["Tuition Costs for Common Universities"](https://datausa.io/profile/cip/music?tuition-measure-tuition_costs=inStateMeasure#tuition_costs). The original data comes from the National Center for Education Statistics' Postsecondary Education Data System. The visualization consists of three different bar graphs about music universities in North America, with each chart showing information for the years 2013 through 2020. Here, music universities consist of both post-secondary institutions that are specifically for music, as well as universities that have reputable and/or popular music degree programs. The first graph shows the in-state tuition rates for music universities; the second graphs shows out-of-state tuition rates; the third shows the total number of graduates from each school in a particular graph.
 
 I think the intended audience of this graph would be people who are looking towards obtaining a post-secondary degree in music. I believe that the reader can understand the information with minimal effort. While I think the visualization is helpful for its intended audience, I also think there can be different ways to visualize the data on the tuition rates and number of graduates for each university.
 
@@ -24,3 +24,9 @@ One aspect that I wanted to highlight in my redesign was the change in tuition r
 ![initial sketch 2](https://user-images.githubusercontent.com/122955915/217414541-4bbdb2d4-5271-4f88-b88e-f003e32d7d5f.jpg)
 
 Another way I thought of redesigning the visualization was to plot the number of graduates of a particular university and the tuition rate for a specific year in order to see if there was a correlation between the two variables. For the scatter plot sketch above, I chose out-of-state tuition to be the variable on the y-axis.
+
+## Feedback 
+Student feedback:
+- The line chart was easier to understand than the scatterplot. With all of the abbreviations of the universities above the points, it was a bit hard to understand the importance of the data/what the data was saying.
+- The titles could be shorter and clearer
+- A smaller sample size would be best for this chart. 
