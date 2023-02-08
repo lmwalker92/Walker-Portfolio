@@ -49,3 +49,4 @@ I used Tableau to draft a cleaner version of what the final redesign might look 
 - The adult also suggested making the lines a little bit thicker, unless it would lead to cluttering the graph.
 
 ## Final Redesigns
+Ultimately, I chose a sample size of 18 universities to include in the final visualization redesign, as the original dataset included information from a large number of four-year institutions and community colleges across North America. 
