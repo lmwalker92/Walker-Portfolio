@@ -8,12 +8,9 @@ My name is Lauren, and I am a second-year student in the Master of Arts Manageme
 In the course, I hope to learn more about how to create data visualizations that are concise, clear in meaning, and effective. 
 
 # Portfolio
-## Critique by Design
-[Critique By Design](/Critique.md)
-## Visualizing Government Debt
-[OECD Data](/Governmentdebt.md)
-## Tableau Demo
-[Tableau Practice](/Tableaudemo.md)
+## [Critique by Design](/Critique.md)
+## [Visualizing Government Debt](/Governmentdebt.md)
+## [Tableau Demo](/Tableaudemo.md)
 ## Final Project Part 1
 ## Final Project Part 2
 ## Final Project Part 3
