@@ -1,3 +1,5 @@
+[Home Page](/README.md) [Critique by Design](/Critique.md) [Visualizing Government Debt](/Governmentdebt.md) 
+
 # Final Project Part 1
 ## Outline 
 For my final project, I am interested in exploring and showing how different public school districts in Maryland and Virginia fund and support arts education. I was thinking of what aspects of arts education I could do a project one, and I was reminded of a data point from Americans from the Arts that stated that over 90% of Americans believe that the arts are [an essential part of a well-rounded education](https://www.americansforthearts.org/sites/default/files/pdf/news/press-releases/2005/06/New-Harris%20Poll-Reveals-93-Percent-of-Americans-Believe-Arts-are-Vital-to-Well-Rounded-Education.pdf). Despite this commonly-held belief, I am aware that there are many public school districts across the U.S. that do not always provide funding for the arts. 
