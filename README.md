@@ -12,5 +12,5 @@ In the course, I hope to learn more about how to create data visualizations that
 ## [Visualizing Government Debt](/Governmentdebt.md)
 ## [Tableau Demo](/Tableaudemo.md)
 ## [Final Project Part 1](/Final_partone.md)
-## Final Project Part 2
+## [Final Project Part 2](/Final_parttwo.md)
 ## Final Project Part 3
