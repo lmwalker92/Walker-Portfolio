@@ -1,4 +1,4 @@
-[Home Page](/README.md) | [Critique by Design](/Critique.md) | [Visualizing Government Debt](/Governmentdebt.md) | [Final Project Part Two](/Final_parttwo.md)
+[Home Page](/README.md) | [Critique by Design](/Critique.md) | [Visualizing Government Debt](/Governmentdebt.md) | [Tableau Demonstration](/Tableaudemo.md) | [Final Project Part Two](/Final_parttwo.md) | [Final Project Part Three](/Final_partthree.md)
 
 # Final Project Part 1
 ## Outline 
