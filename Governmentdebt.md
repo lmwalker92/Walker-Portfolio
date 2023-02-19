@@ -1,3 +1,6 @@
+[Home Page](/README.md) | [Critique by Design](/Critique.md) | [Tableau Demonstration](/Tableaudemo.md) | [Final Project Part One](/Final_partone.md) | [Final Project Part Two](/Final_parttwo.md) | [Final Project Part Three](/Final_partthree.md)
+
+
 # Bar Graph: Gross Domestic Product (GDP) compared to National Debt (2020)
 This bar graph from the Organization for Economic Cooperation and Development (OECD) shows the percentage of national debt compared to GDP for 37 countries. This chart allows the viewer to view a government's reported data from one year in particular, 2020. As indicated by this bar graph, Japan had the highest percentage of national debt compared to GDP, followed by Greece.
 <iframe src="https://data.oecd.org/chart/6Y5j" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Y5j" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
