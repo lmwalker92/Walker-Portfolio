@@ -1,3 +1,5 @@
+[Home Page](/README.md) | [Visualizing Government Debt](/Governmentdebt.md) | [Final Project Part One](/Final_partone.md) | [Final Project Part Two](/Final_parttwo.md) | [Final Project Part Three](/Final_partthree.md) | [Tableau Demonstration](/Tableaudemo.md)
+
 # Critique by Design
 The visualization that I chose to critique and redesign is titled ["Tuition Costs for Common Universities"](https://datausa.io/profile/cip/music?tuition-measure-tuition_costs=inStateMeasure#tuition_costs). The original data comes from the National Center for Education Statistics' Postsecondary Education Data System. The visualization consists of three different bar graphs about music universities in North America, with each chart showing information for the years 2013 through 2020. Here, music universities consist of both post-secondary institutions that are specifically for music, as well as universities that have reputable and/or popular music degree programs. The first graph shows the in-state tuition rates for music universities; the second graphs shows out-of-state tuition rates; the third shows the total number of graduates from each school in a particular graph.
 
