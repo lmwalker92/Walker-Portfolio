@@ -11,13 +11,13 @@ The image below is a very rough iteration of one of the ways in which I plan to 
 
 ## The Data
 Quite a few school districts make their budget information publicly accessible. In order to obtain data for this project, I plan to go through the adopted budget documents for recent fiscal years in order to see their overall expenses, curriculum breakdowns, and the number of teachers that each school district plans to hire for that upcoming fiscal year. I think it would be best to stick to the budget of a recent fiscal year in order to get a picture of how school districts are currently practicing budgeting. Some of the sources I plan to evaluate and eventually use are included below:
-- Montgomery County Public Schools (MCPS) Operating Budget: (https://www2.montgomeryschoolsmd.org/departments/budget/)
-- Fairfax County Public Schools (FCPS) Budget Documents: (https://www.fcps.edu/budget/budget-documents)
-- Howard County Public Schools (HCPSS) Operating Budget: (https://www.hcpss.org/about-us/budgets/)
-- Baltimore County Public Schools (BCPS) Operating Budget: (https://businessservices.bcps.org/departments/fiscal_services/budget_and_reporting/operating_budget)
-- Prince George's County Public Schools (PGCPS) Operating Budget: (https://www.pgcps.org/offices/budget-and-management-services/operating-budget)
-- Henrico County Public Schools (HCPS) Budget & Finance: (https://henricoschools.us/budget-finance/) 
-- Loudoun County Public Schools (LCPS) Budget Information: (https://www.lcps.org/Page/167905)
+- Montgomery County Public Schools (MCPS) Operating Budget: (https://www2.montgomeryschoolsmd.org/departments/budget/).
+- Fairfax County Public Schools (FCPS) Budget Documents: (https://www.fcps.edu/budget/budget-documents).
+- Howard County Public Schools (HCPSS) Operating Budget: (https://www.hcpss.org/about-us/budgets/).
+- Baltimore County Public Schools (BCPS) Operating Budget: (https://businessservices.bcps.org/departments/fiscal_services/budget_and_reporting/operating_budget).
+- Prince George's County Public Schools (PGCPS) Operating Budget: (https://www.pgcps.org/offices/budget-and-management-services/operating-budget).
+- Henrico County Public Schools (HCPS) Budget & Finance: (https://henricoschools.us/budget-finance/). 
+- Loudoun County Public Schools (LCPS) Budget Information: (https://www.lcps.org/Page/167905).
 
 ## Method and Medium
 The first step for this project will be continuing the process of collecting all of the necessary data for my visualizations. For assembling the story that will be used for my in-class presentation, I plan on utilizing Shorthand. For the creation of data visualizations, I plan to use Tableau and/or Flourish.
