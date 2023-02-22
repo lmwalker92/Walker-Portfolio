@@ -23,7 +23,7 @@ My target audience would be individuals who want to learn more about ways they c
 
 ## Interview Findings
 | Questions  |  Interview 1 | Interview 2  | Interview 3 |
-|---|---|---|---|---|
+|---|---|---|---|
 | Are you able to tell what the data is saying?  |   |   |   |  
 | What can be improved to make sure the message comes across clearer?  |   |   |   | 
 | What works well in the visualizations and the overall story? |   |   |   | 
