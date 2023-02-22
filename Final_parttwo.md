@@ -16,9 +16,10 @@ My target audience would be individuals who want to learn more about ways they c
 
 | Goal | Question(s) to Ask|
 |---|---|
-|   |   |  
-|   |   |   
-|   |   |  
+| Understand if the data visualizations I created are clear to other people  | Are you able to tell what the data is saying?  |  
+| Get a better sense of improvements | What can be improved to make sure the message comes across clearer?  |   
+| See what already works well  | What works well in the visualizations and the overall story?  |  
+| Understand my audience better | Is there anything that should be included in the story? What would you like to see included in the story?  | 
 
 ## Interview Findings
 |   |   |   |   |   |
