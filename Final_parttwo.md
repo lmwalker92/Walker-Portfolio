@@ -54,6 +54,7 @@ My target audience would be individuals who want to learn more about ways they c
 | Understand my audience better | Is there anything that should be included in the story? What would you like to see included in the story? Is there anything that could make the story more compelling? | 
 
 ## Interview Findings
+
 | Questions  |  Interview 1 (adult who is familiar with both arts education and MD counties) | Interview 2 (CMU student, not familiar with arts education)  | Interview 3 (CMU student, not familiar with arts education. ) |
 |---|---|---|---|
 | Are you able to tell what the data is saying?  | Yes, for the most part. The bar chart in the third visualization could be clearer. The interviewee could tell what the information was saying, but had to read the additional content a little bit more to understand the graphics.  | Yes, mostly. The third visualization was confusing at first, but the interviewee was able to figure it out eventually.  |  Interviewee saw the third visualization before it turned into a stacked bar chart, but was able to understand once I gave context.  |  
@@ -62,6 +63,7 @@ My target audience would be individuals who want to learn more about ways they c
 | Is there anything that should be included in the story? What would you like to see included in the story? Is there anything that could make the story more compelling?| Could be interesting to explore demographics of the counties, and/or testing scores.  | Nothing in particular.  | More information on budgeting in general.  | 
 
 # Identified Changes for Part 3
+
 | Research Synthesis   | Anticipated Changes for Part 3  |
 |---|---|
 | The third data visualization was probably the weakest of the four that I presented to interviewees. It took a little bit of time to understand what was going on (could also have to do with a lack of title).  | This might be the visualization that sees the most change--add a title, color contrast). I also thought of maybe just showing the budget in terms of curriculum items (because the figures in the graph currently show the entire budget, which includes facilities, educator fees). | 
