@@ -28,6 +28,19 @@ This map shows the 10 counties of MD that I will be focusing on. They are the 10
 The graph below shows the proportion of arts funding in comparison to the remainder of the budget for the four district that provided specific budget line items. This is the data I have so far; I hope to have additional information for part 3.
 <div class="flourish-embed flourish-chart" data-src="visualisation/12814534"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Prominence of Information for Involvement
+I wanted to measure the extent to which information on budget hearings and citizen participation was available on each school district's website. High = visitors do not have to look far for information and the school district provides multiple options for involvement; Medium = visitors have to search for some information, but the district still provides some forms of engagement; Low = there is either very limited information or visitors have to look hard to find information
+
+<div class='tableauPlaceholder' id='viz1677036633314' style='position: relative'><noscript><a href='#'><img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;Displaydegrees&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Displaydegrees&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;Displaydegrees&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1677036633314');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 # User Research
 ## Target Audience
 My target audience would be individuals who want to learn more about ways they can get involved civically. Another target audience would be individuals who are interested in learning about support for the arts, and more specifically, arts education. Since I am focusing on Maryland, the audience would also likely be MD residents, but I think some of the information regarding local government advocacy could be applicable regardless of one's location/residence.  
