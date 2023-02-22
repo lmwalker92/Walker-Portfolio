@@ -24,6 +24,10 @@ Data Source: ["Maryland at a Glance," Maryland Population, Maryland State Archiv
 
 This map shows the 10 counties of MD that I will be focusing on. They are the 10 most populous counties in MD. Each county has its own public school district. 
 
+## Amount of funding for the arts
+The graph below shows the proportion of arts funding in comparison to the remainder of the budget for the four district that provided specific budget line items. This is the data I have so far; I hope to have additional information for part 3.
+<div class="flourish-embed flourish-chart" data-src="visualisation/12814534"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 # User Research
 ## Target Audience
 My target audience would be individuals who want to learn more about ways they can get involved civically. Another target audience would be individuals who are interested in learning about support for the arts, and more specifically, arts education. Since I am focusing on Maryland, the audience would also likely be MD residents, but I think some of the information regarding local government advocacy could be applicable regardless of one's location/residence.  
