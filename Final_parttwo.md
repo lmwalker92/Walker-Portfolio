@@ -56,8 +56,8 @@ My target audience would be individuals who want to learn more about ways they c
 ## Interview Findings
 | Questions  |  Interview 1 | Interview 2  | Interview 3 |
 |---|---|---|---|
-| Are you able to tell what the data is saying?  |   |   |   |  
-| What can be improved to make sure the message comes across clearer?  |   |   |   | 
+| Are you able to tell what the data is saying?  | Yes, for the most part. The bar chart in the third visualization could be clearer. The interviewee could tell what the information was saying, but had to read the additional content a little bit more to understand the graphics.   |   |   |  
+| What can be improved to make sure the message comes across clearer?  | In the third visualization (bar chart), since the proportion of arts-related funding is a small sliver, the color could be made more visible.  |   |   | 
 | What works well in the visualizations and the overall story? |   |   |   | 
 | Is there anything that should be included in the story? What would you like to see included in the story? Is there anything that could make the story more compelling?|   |   |   | 
 
