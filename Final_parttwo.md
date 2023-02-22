@@ -58,12 +58,15 @@ My target audience would be individuals who want to learn more about ways they c
 |---|---|---|---|
 | Are you able to tell what the data is saying?  | Yes, for the most part. The bar chart in the third visualization could be clearer. The interviewee could tell what the information was saying, but had to read the additional content a little bit more to understand the graphics.  | Yes, mostly. The third visualization was confusing at first, but the interviewee was able to figure it out eventually.  |  Interviewee saw the third visualization before it turned into a stacked bar chart, but was able to understand once I gave context.  |  
 | What can be improved to make sure the message comes across clearer?  | In the third visualization (bar chart), since the proportion of arts-related funding is a small sliver, the color could be made more visible.  | Initially said the names of the counties on the map before realizing that the names come up when highlighting over each county.  | Maybe focus on larger items related to budgets (funnell, and then narrow in on the main topic/talk about budgets more generally - maybe how public school districts develop their budgets).  | 
-| What works well in the visualizations and the overall story? | The top graph works well, and says a lot in terms of where the story is going. The fourth visualization also fits well.  | The first graph is probably the strongest. While the third graph was confusing at first, it shows the minimal funding of the arts in comparison to the rest of the budget items. |   | 
+| What works well in the visualizations and the overall story? | The top graph works well, and says a lot in terms of where the story is going. The fourth visualization also fits well.  | The first graph is probably the strongest. While the third graph was confusing at first, it shows the minimal funding of the arts in comparison to the rest of the budget items. |    | 
 | Is there anything that should be included in the story? What would you like to see included in the story? Is there anything that could make the story more compelling?| Could be interesting to explore demographics of the counties, and/or testing scores.  | Nothing in particular.  | More information on budgeting in general.  | 
 
 # Identified Changes for Part 3
 | Research Synthesis   | Anticipated Changes for Part 3  |
 |---|---|
-|   |   | 
-|   |   | 
-|   |   | 
+| The third data visualization was probably the weakest of the four that I presented to interviewees. It took a little bit of time to understand what was going on (could also have to do with a lack of title).  | This might be the visualization that sees the most change--add a title, color contrast). I also thought of maybe just showing the budget in terms of curriculum items (because the figures in the graph currently show the entire budget, which includes facilities, educator fees). | 
+| The first visualization was helpful in setting the frame for the overall story.  | This might not change much; I think it's best that it stays here as the opening visualization.  | 
+| Could potentially include demographic information and/or test scores.  | Maybe add some more data visualizations focusing on additional elements of the counties/school districts I'm focusing on. | 
+| Even the interviewees who weren't as familiar with arts education were able to see the minimal amounts of funding. | Add more elements so that I can communicate better with a non-technical audience. |
+| Could be interesting to see more elements of budgeting | Maybe include a timeline for how some school districts go about their budgeting process, including at which stages they get feedback from the public.
+| | Include a little bit more information about impact/importance of getting involved in local government and how that ties into arts ed. funding. |
