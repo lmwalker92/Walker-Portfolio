@@ -11,7 +11,7 @@ The National League of Cities (NLC) states that now more than ever, ["citizens a
 In order to demonstrate the ways in which individuals who care about the arts can get involved at the local level, I will use data regarding the budgeting process from public school districts (in Maryland) in order to show ways in which individuals can get involved in subjects they care about in a tangible and impactful way. 
 # User Research
 ## Target Audience
-My target audience would be individuals who want to learn more about ways they can get involved civically. Another target audience would be individuals who are interested in learning about support for the arts, and more specifically, arts education.  
+My target audience would be individuals who want to learn more about ways they can get involved civically. Another target audience would be individuals who are interested in learning about support for the arts, and more specifically, arts education. Since I am focusing on Maryland, the audience would also likely be MD residents, but I think some of the information regarding local government advocacy could be applicable regardless of one's location/residence.  
 ## Interview Script
 
 | Goal | Question(s) to Ask|
