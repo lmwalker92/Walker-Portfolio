@@ -7,9 +7,10 @@ Data Source: [Americans for the Arts. "New Harris Poll Reveals that 93 Percent o
 
 In this first chart, I want to specifically highlight the last bar/statistic that says that 40 percent of Americans "do not know how to get involved in Arts Education." Since the research for these statistics were done in 2005, I wondered if I should get a more updated statistic; Americans for the Arts did a similar study in 2018, but it seems that there was no question asked that resembled the data point that I want to develop my project from.  
 
+In order to demonstrate the ways in which individuals who care about the arts can get involved at the local level, I will use data regarding the budgeting process from public school districts (in Maryland) in order to show ways in which individuals can get involved in subjects they care about in a tangible and impactful way. 
 # User Research
 ## Target Audience
-
+My target audience would be individuals who want to learn more about ways they can get involved civically. 
 ## Interview Script
 
 |   |   |   |   |   |
