@@ -19,6 +19,11 @@ In order to demonstrate the ways in which individuals who care about the arts ca
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+Data Source: ["Maryland at a Glance," Maryland Population, Maryland State Archives.](https://msa.maryland.gov/msa/mdmanual/01glance/html/pop.html)
+
+This map shows the 10 counties of MD that I will be focusing on. They are the 10 most populous counties in MD. Each county has its own public school district. 
+
 # User Research
 ## Target Audience
 My target audience would be individuals who want to learn more about ways they can get involved civically. Another target audience would be individuals who are interested in learning about support for the arts, and more specifically, arts education. Since I am focusing on Maryland, the audience would also likely be MD residents, but I think some of the information regarding local government advocacy could be applicable regardless of one's location/residence.  
