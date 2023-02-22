@@ -14,11 +14,11 @@ In order to demonstrate the ways in which individuals who care about the arts ca
 My target audience would be individuals who want to learn more about ways they can get involved civically. 
 ## Interview Script
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Goal | Question(s) to Ask|
+|---|---|
+|   |   |  
+|   |   |   
+|   |   |  
 
 ## Interview Findings
 |   |   |   |   |   |
