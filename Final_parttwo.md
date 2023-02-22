@@ -54,9 +54,9 @@ My target audience would be individuals who want to learn more about ways they c
 | Understand my audience better | Is there anything that should be included in the story? What would you like to see included in the story? Is there anything that could make the story more compelling? | 
 
 ## Interview Findings
-| Questions  |  Interview 1 (adult who is familiar with both arts education and MD counties) | Interview 2  | Interview 3 |
+| Questions  |  Interview 1 (adult who is familiar with both arts education and MD counties) | Interview 2  | Interview 3 (CMU student) |
 |---|---|---|---|
-| Are you able to tell what the data is saying?  | Yes, for the most part. The bar chart in the third visualization could be clearer. The interviewee could tell what the information was saying, but had to read the additional content a little bit more to understand the graphics.   |   |   |  
+| Are you able to tell what the data is saying?  | Yes, for the most part. The bar chart in the third visualization could be clearer. The interviewee could tell what the information was saying, but had to read the additional content a little bit more to understand the graphics.   |   |    |  
 | What can be improved to make sure the message comes across clearer?  | In the third visualization (bar chart), since the proportion of arts-related funding is a small sliver, the color could be made more visible.  |   |   | 
 | What works well in the visualizations and the overall story? | The top graph works well, and says a lot in terms of where the story is going. The fourth visualization also fits well.  |   |   | 
 | Is there anything that should be included in the story? What would you like to see included in the story? Is there anything that could make the story more compelling?| Could be interesting to explore demographics of the counties, and/or testing scores.  |   |   | 
