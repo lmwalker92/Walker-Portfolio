@@ -45,8 +45,8 @@ My target audience would be individuals who want to learn more about ways they c
 | Is there anything that should be included in the story? What would you like to see included in the story? Is there anything that could make the story more compelling?|   |   |   | 
 
 # Identified Changes for Part 3
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Research Synthesis   | Anticipated Changes for Part 3  |
+|---|---|
+|   |   | 
+|   |   | 
+|   |   | 
