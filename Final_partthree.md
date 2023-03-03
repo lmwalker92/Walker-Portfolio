@@ -12,8 +12,11 @@ In my user feedback from part 2, one of the interviewees stated that they would 
 
 ## The Audience
 My call to action shows the three groups who I identified as my potential audiences: everyday citizens, local government and school board officials, and nonprofit organizations. 'Everyday citizens' were the audience segment that I had in mind from the start of this project (in part 1). Since my story later developed into evaluating how local, public entities make information regarding participation available to citizens, I included local government officials as another audience group. Lastly, I chose to include nonprofit organizations. The inclusion of nonprofits stemmed from a personal experience: I previously interned at a nonprofit organization whose mission was to advance access to arts and humanities education in a specific city. As an intern, I helped disseminate information on arts advocacy and how to prepare remarks for a public hearing to some of the organization's stakeholders and community members who were interested in providing testimonies at the city's upcoming budget hearings.
-## Research Methodologies
+
+## Research Process
+Collecting the information on each school district's budget was a long and somewhat tedious process. I chose to focus on the budgets from the current fiscal year (FY2023), as these are the most recently approved and adopted budggets. Each school district made their adopted budgets from FY23 available, in addition to the budgets from previous years; I believe that the oldest budget I saw was from Fiscal Year 2011. The budget expenditures for each school district (along with revenues) were probably the easiest sections to find within the budget documents. What made the process long and tedious was scrolling through PDFs of budgets in order to find the necessary information for my story and narrative. As previously mentioned, not every school district provided the specific amount of money that was budgeted for each subject. For the school districts that did list how each aspect of the curriculum was funded, 
+
 ## Final Design Decisions
 ## References
-
+All references are included at the end of my Shorthand story.
 # Final Thoughts
