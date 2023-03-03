@@ -14,7 +14,7 @@ Quite a few school districts make their budget information publicly accessible. 
 - [Montgomery County Public Schools (MCPS) Operating Budget](https://www2.montgomeryschoolsmd.org/departments/budget/).
 - [Fairfax County Public Schools (FCPS) Budget Documents](https://www.fcps.edu/budget/budget-documents).
 - [Howard County Public Schools (HCPSS) Operating Budget](https://www.hcpss.org/about-us/budgets/).
-- [Baltimore County Public Schools (BCPS) Operating Budget] (https://businessservices.bcps.org/departments/fiscal_services/budget_and_reporting/operating_budget).
+- [Baltimore County Public Schools (BCPS) Operating Budget](https://businessservices.bcps.org/departments/fiscal_services/budget_and_reporting/operating_budget).
 - [Prince George's County Public Schools (PGCPS) Operating Budget](https://www.pgcps.org/offices/budget-and-management-services/operating-budget).
 - [Henrico County Public Schools (HCPS) Budget & Finance](https://henricoschools.us/budget-finance/). 
 - [Loudoun County Public Schools (LCPS) Budget Information](https://www.lcps.org/Page/167905).
