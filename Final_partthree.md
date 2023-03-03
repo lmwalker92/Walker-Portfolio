@@ -11,6 +11,7 @@ I added a title to the map of Maryland that looked at the counties and populatio
 In my user feedback from part 2, one of the interviewees stated that they would like to see more information related to the budgeting process in general. I added a graphic based on a Canva template in order to list the general process/timeline of creating a public budget (based on Montgomery County Public Schools' budgeting process). In the last chart that describes the prominence of information for involvement and engagement, I stuck with the same visualization type that was included in part two, but added a title to describe the visualization and used different colors for 'high,' 'medium,' and 'low.' I also included my call to action, which was not present in part two. 
 
 ## The Audience
+My call to action shows the three groups who I identified as my potential audiences: everyday citizens, local government and school board officials, and nonprofit organizations. 'Everyday citizens' were the audience segment that I had in mind from the start of this project (in part 1). Since my story later developed into evaluating how local, public entities make information regarding participation available to citizens, I included local government officials as another audience group. Lastly, I chose to include nonprofit organizations. The inclusion of nonprofits stemmed from a personal experience: I previously interned at a nonprofit organization whose mission wad to advance access to arts and humanities education. 
 ## Research Methodologies
 ## Final Design Decisions
 ## References
