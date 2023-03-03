@@ -2,6 +2,7 @@
 
 # The Final Data Story
 The link to my story on Shorthand can be found here: [Encouraging civic engagement: arts funding and public school budgets in Maryland](https://tswd-lauren.shorthandstories.com/encouraging-civic-engagement-arts-funding-and-public-school-budgets-in-maryland/index.html).
+
 If some visualizations do not show up in link above, they should show up [here](https://preview.shorthand.com/y81zFZIj54qmeygG).
 
 # Changes made since Part Two
